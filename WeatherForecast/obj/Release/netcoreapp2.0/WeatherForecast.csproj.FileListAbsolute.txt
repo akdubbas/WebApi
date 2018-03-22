@@ -1,0 +1,11 @@
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\bin\Release\netcoreapp2.0\WeatherForecast.deps.json
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\bin\Release\netcoreapp2.0\WeatherForecast.runtimeconfig.json
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\bin\Release\netcoreapp2.0\WeatherForecast.runtimeconfig.dev.json
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\bin\Release\netcoreapp2.0\WeatherForecast.dll
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\bin\Release\netcoreapp2.0\WeatherForecast.pdb
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\obj\Release\netcoreapp2.0\WeatherForecast.csprojResolveAssemblyReference.cache
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\obj\Release\netcoreapp2.0\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\obj\Release\netcoreapp2.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\obj\Release\netcoreapp2.0\WeatherForecast.AssemblyInfo.cs
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\obj\Release\netcoreapp2.0\WeatherForecast.dll
+C:\Users\tharu\Desktop\RRSR\WeatherForecast\WeatherForecast\obj\Release\netcoreapp2.0\WeatherForecast.pdb
