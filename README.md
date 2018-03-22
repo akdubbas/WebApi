@@ -6,7 +6,7 @@ Select a date and click on submit
 # Wait atleast for 10 to 15 seconds as api's may take some time to respond back with results
 
 1) "Forecast api" responds with the results from the last assignment
-2) "Datasky" is the third party API which forecasts the weather based on 7 different timestamps.
+2) "Darksky" is the third party API which forecasts the weather based on 7 different timestamps.
 
 http://18.220.215.135 gives a UI and forecasts the weather from the above two Api's
 
